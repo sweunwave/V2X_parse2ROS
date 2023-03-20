@@ -18,8 +18,7 @@ Team : BISA (Keimyung Univ)
 
 
 ## Start
-<pre><code>
-rosrun v2x_msgs parse_sPat.py
+<pre><code>rosrun v2x_msgs parse_sPat.py
 </code></pre>
 
 Check for Topic
