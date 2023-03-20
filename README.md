@@ -18,13 +18,9 @@ Team : BISA (Keimyung Univ)
 
 
 ## Start
-<pre><code>cd your_workspace/src/v2x_msgs/v2x
-./execc 
+<pre><code>
 rosrun v2x_msgs parse_sPat.py
 </code></pre>
-
-If you want to build a new source, 
-<pre><code>./build.sh</code></pre>
 
 Check for Topic
 <pre><code>rostopic echo /v2x/sPat</code></pre>
