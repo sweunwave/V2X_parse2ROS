@@ -32,7 +32,4 @@ Check for Topic
 ![sp1](https://user-images.githubusercontent.com/71008546/181169398-b2ce2e34-36f1-41fa-8ffc-d21a957d41df.png)
 ![sp2](https://user-images.githubusercontent.com/71008546/181169406-3485fdb8-2e54-4fbb-b689-6a17086bc334.png)
 
-<hr>
-
-v2x 샘플 소스 제공 - (주)세스트
 
