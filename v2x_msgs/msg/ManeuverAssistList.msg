@@ -1,0 +1,2 @@
+int32 connectionID
+int32 pedBicycleDetect

@@ -1,0 +1,2 @@
+int32 eventState
+int32 timingMinEndTime
